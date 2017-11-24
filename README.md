@@ -19,4 +19,5 @@ Go modify this on github now
 git pull                  ## Download and merge all changes
 ```
 3. **Git's collaborative abilities.** Notice how multiple people could edit the same line and upload it at the same time. Git can fix that!
+
 Crosby, Stills, Nash, and Young
