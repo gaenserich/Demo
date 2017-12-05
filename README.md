@@ -1,5 +1,5 @@
 # Demo
-Here is a file in a demonstration repository I already made!
+Here is a file in a demonstration repository I already made.
 
 
 
